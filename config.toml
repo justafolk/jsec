@@ -1,5 +1,4 @@
 baseURL = "https://justafolk.github.io/"
-title = "Avdhut Kamble justafolk"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
