@@ -2,8 +2,8 @@
 title:  Justafolk's Brainforest
 enableToc: false
 ---
-<h2>Hey 👋, I'm <a href="https://justafolk.github.io/">Avdhut</a></h2>
-<p>I'm currently a student developer interning at <strong><a href="">Malegaonkar & Associates</a></strong> based in 🌁 Pune, India. I am working on some side projects and learning new JS frameworks.</p>
+<h2>Hello 👋!  </h2>
+<p>I am Avdhut Kamble, A passionate student committed to continuous learning and embracing new challenges. With a firm belief that staying updated with the latest advancements is crucial, I strive to shape the future of technology and make a meaningful impact on society. Driven by dedication and perseverance, I firmly adhere to the philosophy that if I cannot create something, I do not truly understand </p>
 <p><a href="https://justafolk.github.io"><img src="https://img.shields.io/badge/-justafolk.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://justafolk.github.io" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/avdhut-kamble/"><img src="https://img.shields.io/badge/-@avdhutkamble-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/avdhut-kamble/" alt="LinkedIn Badge"></a> <a href="https://dev.to/justafolk"><img src="https://img.shields.io/badge/-@justafolk-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/justafolk" alt="DevTo Badge"></a> </p>
 <p> What I cannot create, I do not understand. </p>
 <h2>⚡️ A Few Quick Facts</h2>
